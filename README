@@ -1,3 +1,17 @@
+Notice
+-------
+
+The include-updates branch of this repository has the GLES and GLES2 files 
+updated to the versions posted (as of 6/8/2013) on the Khronos website:
+
+http://www.khronos.org/registry/gles/
+
+This allows both GLES/gl.h and GLES2/gl2.h to be included in the same code.
+
+This was required to support openFrameworks on the pcDuino.
+
+digitalhack 6/8/2013
+
 Mali userspace driver installation.
 -----------------------------------
 
